@@ -101,6 +101,7 @@ nav {
     margin-bottom: 41px;
     margin-right: 40px;
     margin-left: 10px;
+
     outline: 2px solid green;
 }
 
@@ -110,6 +111,7 @@ nav {
     margin-top: 58px;
     margin-bottom: 51px;
     margin-left: 94px;
+
     outline: 3px solid yellow;
 }
 
@@ -118,6 +120,7 @@ nav {
     width: 140px;
     margin-top: 58px;
     margin-right: 7px;
+
     outline: 2px solid red;
 }
 
@@ -127,15 +130,54 @@ nav {
     font-size:  14px;
 }
 
-.larg-img  img:nth-child(2){
-    outline: 2px solid yellow;
-    font-size: 14px;
+.larg-img  img:nth-child(2) {
     margin-right: 20px;
     margin-top: 20px;
+
+    font-size: 14px;
+    outline: 2px solid yellow;
 }
 
-.larg-img  img:nth-child(3){
-    outline: 2px solid yellow;
-    font-size: 14px;
+.larg-img  img:nth-child(3) {
     margin-right: 20px;
+
+    font-size: 14px;
+    outline: 2px solid yellow;
 }
+
+
+
+.manufactures-and-item-groups {
+    float:left;
+    width: 176px;
+    margin-left: 10px;
+    outline: 2px solid green;
+
+}
+
+.items-to-buy {
+    float: left;
+    width: 720px;
+    margin-left: 44px;
+    margin-bottom: 25px;
+    outline: 2px solid red;
+}
+
+.item-to-buy {
+    float: left;
+    width: 220px;
+    margin-left: 20px ;
+    margin-bottom: 20px;
+    min-height: 288px;
+    outline: 2px solid green;
+}
+
+.pages {
+    clear:both;
+    width: 194px;
+    margin-left: 250px;
+    margin-bottom: 52px;
+    outline: 2px solid green;
+}
+
+
